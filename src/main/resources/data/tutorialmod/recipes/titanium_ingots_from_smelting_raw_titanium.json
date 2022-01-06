@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "titanium_ingot",
+  "ingredient": {
+    "item": "tutorialmod:raw_titanium"
+  },
+  "result": "tutorialmod:titanium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}
